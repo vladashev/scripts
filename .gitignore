@@ -63,3 +63,5 @@ docs/_build/
 
 ### Ruby template
 *.gem
+*.rbc
+/.config
