@@ -65,3 +65,5 @@ docs/_build/
 *.gem
 *.rbc
 /.config
+/coverage/
+/InstalledFiles
