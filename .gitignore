@@ -67,3 +67,5 @@ docs/_build/
 /.config
 /coverage/
 /InstalledFiles
+/pkg/
+/spec/reports/
