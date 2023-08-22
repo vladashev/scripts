@@ -71,3 +71,6 @@ docs/_build/
 /spec/reports/
 /test/tmp/
 /test/version_tmp/
+
+## Specific to RubyMotion:
+.dat*
