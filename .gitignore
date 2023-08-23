@@ -74,3 +74,6 @@ docs/_build/
 
 ## Specific to RubyMotion:
 .dat*
+.repl_history
+
+## Documentation cache and generated files:
