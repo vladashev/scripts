@@ -77,3 +77,5 @@ docs/_build/
 .repl_history
 
 ## Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
