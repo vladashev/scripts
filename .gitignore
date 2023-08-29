@@ -81,3 +81,7 @@ docs/_build/
 /_yardoc/
 /doc/
 /rdoc/
+
+## Environment normalisation:
+/.bundle/
+/vendor/bundle
