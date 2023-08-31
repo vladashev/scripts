@@ -1,4 +1,4 @@
-!bin/
+/lib/bundler/man/!bin/
 #################################################
 # Programming Language
 #################################################
@@ -85,3 +85,4 @@ docs/_build/
 ## Environment normalisation:
 /.bundle/
 /vendor/bundle
+/lib/bundler/man/
