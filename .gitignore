@@ -127,3 +127,8 @@ node_modules
 
 
 #################################################
+# IDE/Editor
+#################################################
+
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
