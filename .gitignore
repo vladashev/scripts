@@ -150,3 +150,6 @@ node_modules
 # .idea/sqlDataSources.xml
 # .idea/dynamic.xml
 # .idea/uiDesigner.xml
+
+# Gradle:
+# .idea/gradle.xml
