@@ -156,3 +156,6 @@ node_modules
 # .idea/libraries
 
 # Mongo Explorer plugin:
+# .idea/mongoSettings.xml
+
+## File-based project format:
