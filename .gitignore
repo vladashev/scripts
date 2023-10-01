@@ -159,3 +159,7 @@ node_modules
 # .idea/mongoSettings.xml
 
 ## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
