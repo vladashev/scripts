@@ -163,3 +163,8 @@ node_modules
 *.iws
 
 ## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
