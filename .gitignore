@@ -182,3 +182,8 @@ crashlytics-build.properties
 ### Eclipse template
 *.pydevproject
 .metadata
+.gradle
+tmp/
+*.bak
+*.swp
+*~.nib
