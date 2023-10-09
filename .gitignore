@@ -187,3 +187,10 @@ tmp/
 *.bak
 *.swp
 *~.nib
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
+
+# External tool builders
