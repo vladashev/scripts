@@ -209,3 +209,12 @@ tmp/
 .buildpath
 
 # sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+.factorypath
+
+
+### SublimeText template
