@@ -235,3 +235,4 @@ sftp-config.json
 
 
 ### Vim template
+[._]*.s[a-w][a-z]
