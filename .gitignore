@@ -239,3 +239,8 @@ sftp-config.json
 [._]s[a-w][a-z]
 *.un~
 Session.vim
+.netrwhist
+*~
+
+
+### vs code
