@@ -60,3 +60,8 @@ coverage.xml
 docs/_build/
 
 .ipynb_checkpoints/
+
+### Ruby template
+*.gem
+*.rbc
+/.config
