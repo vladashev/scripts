@@ -69,3 +69,7 @@ docs/_build/
 /InstalledFiles
 /pkg/
 /spec/reports/
+/test/tmp/
+/test/version_tmp/
+
+## Specific to RubyMotion:
