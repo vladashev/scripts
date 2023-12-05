@@ -73,3 +73,8 @@ docs/_build/
 /test/version_tmp/
 
 ## Specific to RubyMotion:
+.dat*
+.repl_history
+
+## Documentation cache and generated files:
+/.yardoc/
